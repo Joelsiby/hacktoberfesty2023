@@ -1,5 +1,5 @@
 # hacktoberfesty2023
 commit
 
-my name is avinash
+my name is avi
 hiiiii from joeee
